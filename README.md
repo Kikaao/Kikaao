@@ -15,15 +15,11 @@
 
 ---
 
-## Projects
+## Latest Project
 
-### ⚔️ FitRPG
+### [⚔️ Rise](https://github.com/Kikaao/Rise-Kotlin)
 Android fitness app that gamifies your gym progress. Earn XP, unlock achievements, and level up your character by actually working out.
 **Tech:** `Kotlin` · `Android` · `Gamification`
-
-### ✈️ Dynamic Flight Pricing System
-Graph-based flight pricing engine using BFS, Dijkstra & Haversine distance with a dynamic load-factor pricing model.
-**Tech:** `Java` · `Algorithms` · `Graph Theory` · `Pricing Logic`
 
 ---
 
@@ -35,6 +31,11 @@ Graph-based flight pricing engine using BFS, Dijkstra & Haversine distance with 
 | Android Studio | Mobile UX | Git · GitHub |
 | Java | Coding Architecture | Excel / Power BI |
 
+---
+
+## Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stamatis_Kaxiris-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stamatis-kaxiris-3250292a1/)
 
 ---
 
