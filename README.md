@@ -8,8 +8,9 @@
 
 ## About me
 
-- 🎓 2nd year CS student @ Athens Tech (Code.Hub), specialising in Business Informatics
-- 📱 Building Android apps — I like the full loop, from scoping what to build to shipping it
+- 🎓 2nd year CS student at [![Athens Tech College](https://img.shields.io/badge/Athens%20Tech%20College-blue?style=flat&logo=graduation-cap)](https://www.athtech.gr/)
+[![York University](https://img.shields.io/badge/York%20University-12217C?style=flat&logo=university&logoColor=white)](https://city.yorkeuropecampus.eu/), specialising in Mobile Development
+- 📱 Building Android apps. I like the full loop, from scoping what to build to shipping it
 - 🕹️ Museum Assistant & Social Media at the **Greek Arcade Museum** — where pixels have history
 - 🇨🇳 Learning Chinese · targeting HSK 3–4
 
