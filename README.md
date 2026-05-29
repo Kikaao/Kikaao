@@ -12,7 +12,7 @@
 [![York University](https://img.shields.io/badge/York%20University-12217C?style=flat&logo=university&logoColor=white)](https://city.yorkeuropecampus.eu/), specialising in Mobile Development
 -  Building Android apps. I like the full loop, from scoping what to build to shipping it
 -  Museum Assistant & Social Media at the **Greek Arcade Museum** — where pixels have history
-- 🇨🇳 Learning Chinese · targeting HSK 3–4
+
 
 ---
 
