@@ -1,4 +1,4 @@
-# Hey, I'm Stamatis 👋
+# Hey, I'm Stamatis
 
 > CS student · Mobile Development · Athens, Greece
 
