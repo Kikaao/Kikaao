@@ -20,6 +20,7 @@
 
 ### [Rise](https://github.com/Kikaao/Rise-Kotlin)
 Android fitness app that gamifies your gym progress. Earn XP, unlock achievements, and level up your character by actually working out.
+
 **Tech:** `Kotlin` · `Android` · `Gamification`
 
 ### [Scorller](https://github.com/Kikaao/Scorller)
