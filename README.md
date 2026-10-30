@@ -24,6 +24,7 @@ Android fitness app that gamifies your gym progress. Earn XP, unlock achievement
 
 ### [Scorller](https://github.com/Kikaao/Scorller)
 Android app that helps a friend group actually agree on something. Everyone shares their favorite Airbnbs into a session, swipes left or right to vote, and watches the list shrink live from 30 options down to the 3 or 4 everyone likes.
+
 **Tech:** `Kotlin` · `Jetpack Compose` · `Firebase`
 
 ---
